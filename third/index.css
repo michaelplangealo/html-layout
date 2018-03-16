@@ -1,0 +1,49 @@
+* {
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+
+.rows{
+    height:200px;
+    width:100%;
+}
+
+.grey-row{
+    background-color: rgb(219, 218, 218);
+    padding: 25px;
+}
+.blue-sqr{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(56, 135, 238);
+}
+.white-row{
+background-color: white;
+box-sizing: border-box;
+padding: 50px;
+height: 300px;
+}
+.text{
+    font-size: 20px;
+    
+}
+
+
+.another-blue-row{
+    background-color: rgb(39, 39, 163)
+}
+.seafoamish-row{
+    background-color: rgb(135, 211, 201)
+}
+.green-row{
+    background-color: rgb(108, 196, 50)
+}
+.yellow-row{
+    background-color: rgb(243, 225, 63)
+}
